@@ -28,14 +28,12 @@ li a {
 #menu a:hover {
 	background-color: #3FCC00;}
 
-.centered_heading {
+.centered-heading {
 	text-align: center;
 	font-size: 2.5em;}
-			
-#header {
-	background-color: #000000; }
-			
-#header h1 {
+
+#title-page-heading {
+	background-color: #000000;
 	font-color: #FFFFFF ;
 	font-family: "Palatino Linotype","Book Antigua", Palatino ,serif; }
 			
